@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
                         Ejercicio1.Companion.MostrarResultadoEstacionamiento(horas = 3, minutos = 30)
                         Ejercicio2.Companion.MostrarResultadoPromedio(nota1 = 15.0, nota2 = 18.0, nota3 = 20.0, nota4 = 17.0)
                         Ejercicio3.Companion.MostrarResultadoDNI(anioNacimiento = 2000)
-
+                        Ejercicio4.Companion.MostrarNumerosPares()
 
                     }
                 }
@@ -52,6 +52,7 @@ private fun GreetingPreview() {
                 Ejercicio1.Companion.MostrarResultadoEstacionamiento(horas = 3, minutos = 30)
                 Ejercicio2.Companion.MostrarResultadoPromedio(nota1 = 15.0, nota2 = 18.0, nota3 = 20.0, nota4 = 17.0)
                 Ejercicio3.Companion.MostrarResultadoDNI(anioNacimiento = 2000)
+                Ejercicio4.Companion.MostrarNumerosPares()
 
             }
         }
