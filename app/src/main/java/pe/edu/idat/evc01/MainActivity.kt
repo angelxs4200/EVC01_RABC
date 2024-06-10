@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Ejercicio1.MostrarResultadoEstacionamiento()
                     Ejercicio2.MostrarResultadoPromedio()
-                    Ejercicio3.MostrarResultadoDNI(2007) // "No"
+                    Ejercicio3.MostrarResultadoDNI(2008) // "No"
                     Ejercicio3.MostrarResultadoDNI(1990) // "Sí"
                     Ejercicio4.MostrarNumerosPares()
                 }
